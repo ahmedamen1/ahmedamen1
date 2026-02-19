@@ -26,8 +26,15 @@ My research focuses on making Large Language Models more resource-efficient for 
 * Fine-tuned a **4-bit quantized Qwen2.5-7B-Instruct** model using parameter-efficient LoRA (0.26% trainable parameters).
 * Clean, modular pipeline for training, evaluation, and inference with production-ready architecture for financial domain adaptation.
 
+#### **[Chatbot Demo — AI Medical Consultation Assistant](https://github.com/ahmedamen1/ChatBot_Demo)**
 
-#### **[Takhail: School Safety System](https://github.com/ahmedamen1/school-safety-system)**
+*AI Engineer*
+
+* Developed a **personalized AI medical assistant** with WhatsApp-style interface supporting Arabic and English.
+* Implemented **RAG-grounded responses**, voice interaction, and text-to-speech for natural, bilingual patient communication.
+* Built a production-ready, containerized backend using FastAPI, Celery, MongoDB, Redis, and secure authentication with persistent chat history.
+
+#### **[School Safety System](https://github.com/ahmedamen1/school-safety-system)**
 
 *AI Engineer*
 
