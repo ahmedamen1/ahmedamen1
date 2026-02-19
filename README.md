@@ -19,7 +19,7 @@ My research focuses on making Large Language Models more resource-efficient for 
 
 ### 🚀 Key Projects
 
-#### **[Takhail: Multi-Camera AI Security Platform](https://github.com/ahmedamen1/MultiCamera_School__SECURITY_SYSTEM)**
+#### **[Takhail: Multi-Camera AI Security Platform]([https://github.com/ahmedamen1/MultiCamera_School__SECURITY_SYSTEM](https://github.com/ahmedamen1/school-safety-system))**
 *AI Engineer*
 * Built a two-stage weapon detection pipeline using **RF-DETR and CLIP**, significantly reducing false positives by verifying semantic context.
 * Implemented physical aggression detection using **3D-CNNs** on spatiotemporal rolling buffers to analyze physical aggression patterns.
