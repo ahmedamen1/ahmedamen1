@@ -53,12 +53,14 @@ My research focuses on making Large Language Models more resource-efficient for 
 
 ---
 
-### 🛠️ Technical Toolbox
+## 🛠️ Technical Skills
 
-* **Programming Languages:** Python, C++, SQL.
-* **AI/ML Frameworks:** PyTorch, TensorFlow, scikit-learn, Hugging Face, YOLO, RF-DETR, CLIP, 3D-CNN.
-* **LLM Techniques:** PEFT (LoRA/Q-LoRA), Quantization, Unsloth FastLanguageModel, Task Routing.
-* **Tools & APIs:** FastAPI, Git, Linux, Kaggle, Twilio API, Google Drive API, SMTP.
+* **Languages:** Python, C++, SQL, Bash
+* **NLP:** LoRA/QLoRA, 4-bit Quantization, RAG, LangChain, Hugging Face Transformers, Unsloth
+* **ML/DL Frameworks:** PyTorch, TensorFlow, Scikit-learn
+* **Computer Vision:** YOLO, RF-DETR, CLIP, 3D-CNN, OpenCV, Detectron2
+* **Deployment & Tools:** Docker, FastAPI, Git, Linux, LaTeX, ChromaDB, Redis, Celery
+
 
 ---
 
