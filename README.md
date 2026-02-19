@@ -5,6 +5,10 @@
 
 I specialize in developing high-stakes AI solutions, ranging from **Real-Time Computer Vision** for security to **Parameter-Efficient Fine-Tuning (PEFT)** for domain-specific LLMs. I am passionate about bridging the gap between cutting-edge research and practical, multi-modal systems.
 
+* **Check out my Portfolio:** [ahmedamen1.github.io/Portofolio](https://ahmedamen1.github.io/Portofolio)
+
+  * A curated showcase of my projects, research, and technical skills in AI, ML, and computer vision.
+
 ---
 
 ### 🔬 Featured Research & Publications
