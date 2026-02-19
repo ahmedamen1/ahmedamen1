@@ -17,13 +17,31 @@ My research focuses on making Large Language Models more resource-efficient for 
 
 ---
 
-### 🚀 Key Projects
+🚀 Key Projects
+#### **[FinVerse Agent - CFA Level 1 Domain Adapter](https://github.com/ahmedamen1/Fnverse_Agent_CFA_Adapter)**
 
-#### **[Takhail: Multi-Camera AI Security Platform]([https://github.com/ahmedamen1/MultiCamera_School__SECURITY_SYSTEM](https://github.com/ahmedamen1/school-safety-system))**
 *AI Engineer*
-* Built a two-stage weapon detection pipeline using **RF-DETR and CLIP**, significantly reducing false positives by verifying semantic context.
-* Implemented physical aggression detection using **3D-CNNs** on spatiotemporal rolling buffers to analyze physical aggression patterns.
-* Optimized system throughput with a multi-threaded architecture in **FastAPI**, achieving sub-1-second response times for critical threat detections.
+
+* Developed a **domain-specific LoRA adapter** for CFA Level 1 exam questions, part of the FinVerse Agent modular system.
+* Fine-tuned a **4-bit quantized Qwen2.5-7B-Instruct** model using parameter-efficient LoRA (0.26% trainable parameters).
+* Clean, modular pipeline for training, evaluation, and inference with production-ready architecture for financial domain adaptation.
+
+
+#### **[Takhail: School Safety System](https://github.com/ahmedamen1/school-safety-system)**
+
+*AI Engineer*
+
+* Designed a two-stage weapon detection pipeline leveraging **RF-DETR** for object detection and **CLIP** for semantic verification, significantly reducing false positives.
+* Developed a physical aggression detection module using **3D CNNs** with spatiotemporal rolling buffers to model motion dynamics.
+* Architected a multi-threaded **FastAPI** backend, achieving sub-second latency for real-time threat detection across multiple camera streams.
+
+#### **[Deep Spatio-Temporal Neural Networks (DSTN) for CTR Prediction](https://github.com/ahmedamen1/DSTN_CTR_Prediction)**
+
+*AI Engineer*
+
+* Implemented **DSTN model** based on KDD 2019 for Click-Through Rate (CTR) prediction.
+* Captures **spatial context** of ads and **temporal user behavior** using a dual-stream ConvLSTM + Conv3D architecture.
+* Modular, clean codebase with synthetic traffic data for experimentation and evaluation.
 
 #### **[Rafeeq: Smart Wheelchair AI Kit](https://github.com/ahmedamen1/Heelth_Monitoring_System)**
 *Lead AI Engineer*
