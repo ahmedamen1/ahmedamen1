@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ahmed Amin</h1>
 
 <p align="center">
-  <b>AI Engineer at Takhail</b> · Giza, Egypt<br>
+  <b>AI Engineer at Takhaial</b> · Giza, Egypt<br>
   I build resource-efficient AI and NLP systems that work in the real world.
 </p>
 
