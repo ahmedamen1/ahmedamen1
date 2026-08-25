@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Amin</h1>
+<h1 align="center">Hi, I'm Ahmed Amin</h1>
 
 <p align="center">
   <b>AI Engineer at Takhail</b> · Giza, Egypt<br>
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ahmedamen1.github.io/Portfolio-/"><img src="https://img.shields.io/badge/Portfolio-6C4AB6?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"></a>
+  <a href="https://ahmedamen1.github.io/Portofolio/"><img src="https://img.shields.io/badge/Portfolio-6C4AB6?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/ahmed-amin-47196321a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://ieeexplore.ieee.org/document/11261453"><img src="https://img.shields.io/badge/IEEE_Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Paper"></a>
   <a href="mailto:ahmed.m.amin2003@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -30,7 +30,7 @@ afford, fast enough to use, and accurate enough to trust.
 Most of that work is in Arabic. AI tools are built for English first, so Arabic users
 get the weaker version. That gap is the problem I want to keep working on.
 
-- Building **production RAG pipelines and LLM voice agents** at Takhail, and leading a small team
+- Building **production RAG pipelines and LLM voice agents** at Takhail, across four client-facing products
 - Starting an **MSc in AI for Science** at AIMS South Africa in September 2026, on a **full Google DeepMind scholarship**
 - Published at **IEEE CSCloud 2025**: small fine-tuned models that beat GPT-4o on CFA exams
 - Ask me about **RAG, Arabic NLP, LoRA fine-tuning, or running LLMs cheaply**
