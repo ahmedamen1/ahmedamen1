@@ -1,115 +1,94 @@
-# 👋 Hi, I'm Ahmed Amin
+<h1 align="center">Hi, I'm Amin 👋</h1>
 
-### **AI/ML Engineer | AI Researcher**
-**B.S. Communications & Information Engineering @ Zewail City (Class of 2026)**
+<p align="center">
+  <b>AI Engineer at Takhail</b> · Giza, Egypt 🇪🇬<br>
+  I build Arabic AI that runs in production, not in notebooks.
+</p>
 
-I specialize in developing high-stakes AI solutions, ranging from **Real-Time Computer Vision** for security to **Parameter-Efficient Fine-Tuning (PEFT)** for domain-specific LLMs. I am passionate about bridging the gap between cutting-edge research and practical, multi-modal systems.
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_DeepMind_Scholar-2026-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google DeepMind Scholar">
+  <img src="https://img.shields.io/badge/IEEE_Published-2025-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Published">
+  <img src="https://img.shields.io/badge/🏆_1st_Place-FinAI_2025-FFB300?style=for-the-badge&logoColor=white" alt="1st Place FinAI 2025">
+</p>
 
-* **Check out my Portfolio:** [ahmedamen1.github.io/Portofolio](https://ahmedamen1.github.io/Portofolio)
-
-  * A curated showcase of my projects, research, and technical skills in AI, ML, and computer vision.
-
----
-
-### 🔬 Featured Research & Publications
-My research focuses on making Large Language Models more resource-efficient for specialized domains like finance.
-
-* **FinVerse Agent: Resource-Efficient Financial LLMs with Modular LoRA Fine-Tuning and Task Routing**
-    * *Published in IEEE CSCloud 2025 Special Track SecureFinAI*.
-    * Engineered a modular AI system using a **4-bit-quantized LLaMA-3.1-8B** base model with 15 task-specific LoRA adapters.
-    * **[Link to Publication](https://ieeexplore.ieee.org/document/11261453)**
-
----
-
-🚀 Key Projects
-#### **[FinVerse Agent - CFA Level 1 Domain Adapter](https://github.com/ahmedamen1/Fnverse_Agent_CFA_Adapter)**
-
-*AI Engineer*
-
-* Developed a **domain-specific LoRA adapter** for CFA Level 1 exam questions, part of the FinVerse Agent modular system.
-* Fine-tuned a **4-bit quantized Qwen2.5-7B-Instruct** model using parameter-efficient LoRA (0.26% trainable parameters).
-* Clean, modular pipeline for training, evaluation, and inference with production-ready architecture for financial domain adaptation.
-
-#### **[Chatbot Demo — AI Medical Consultation Assistant](https://github.com/ahmedamen1/ChatBot_Demo)**
-
-*AI Engineer*
-
-* Developed a **personalized AI medical assistant** with WhatsApp-style interface supporting Arabic and English.
-* Implemented **RAG-grounded responses**, voice interaction, and text-to-speech for natural, bilingual patient communication.
-* Built a production-ready, containerized backend using FastAPI, Celery, MongoDB, Redis, and secure authentication with persistent chat history.
-
-#### **[School Safety System](https://github.com/ahmedamen1/school-safety-system)**
-
-*AI Engineer*
-
-* Designed a two-stage weapon detection pipeline leveraging **RF-DETR** for object detection and **CLIP** for semantic verification, significantly reducing false positives.
-* Developed a physical aggression detection module using **3D CNNs** with spatiotemporal rolling buffers to model motion dynamics.
-* Architected a multi-threaded **FastAPI** backend, achieving sub-second latency for real-time threat detection across multiple camera streams.
-
-#### **[Deep Spatio-Temporal Neural Networks (DSTN) for CTR Prediction](https://github.com/ahmedamen1/DSTN_CTR_Prediction)**
-
-*AI Engineer*
-
-* Implemented **DSTN model** based on KDD 2019 for Click-Through Rate (CTR) prediction.
-* Captures **spatial context** of ads and **temporal user behavior** using a dual-stream ConvLSTM + Conv3D architecture.
-* Modular, clean codebase with synthetic traffic data for experimentation and evaluation.
-
-#### **[Rafeeq: Smart Wheelchair AI Kit](https://github.com/ahmedamen1/Heelth_Monitoring_System)**
-*Lead AI Engineer*
-* Developed an **Intelligent Health Monitoring System** processing vital signs (HR, SpO2, Temp) to detect patient distress and trigger automated emergency protocols.
-* Implemented **offline Arabic voice recognition** for patient independence and navigation.
-* Architected a real-time response pipeline using the **Twilio API** to initiate emergency voice calls upon detecting falls or critical vitals.
-
-
+<p align="center">
+  <a href="https://ahmedamen1.github.io/Portofolio/"><img src="https://img.shields.io/badge/Portfolio-6C4AB6?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/ahmed-amin-47196321a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://ieeexplore.ieee.org/document/11261453"><img src="https://img.shields.io/badge/IEEE_Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Paper"></a>
+  <a href="mailto:ahmed.m.amin2003@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+### 🌍 About me
 
-* **Languages:** Python, C++, SQL, Bash
-* **NLP:** LoRA/QLoRA, 4-bit Quantization, RAG, LangChain, Hugging Face Transformers, Unsloth
-* **ML/DL Frameworks:** PyTorch, TensorFlow, Scikit-learn
-* **Computer Vision:** YOLO, RF-DETR, CLIP, 3D-CNN, OpenCV, Detectron2
-* **Deployment & Tools:** Docker, FastAPI, Git, Linux, LaTeX, ChromaDB, Redis, Celery
+I am an AI Engineer working on Arabic RAG systems and LLM voice agents. Most AI tools
+are built for English first, so Arabic users get the weaker version. That gap is the
+problem I want to keep working on.
 
-
----
-
-🏆 Achievements
-
-🥇 1st Place – FinAI Contest 2025 (Task 2)
-Awarded at the 12th IEEE International Conference on Cyber Security for outstanding performance in financial AI modeling.
-
-⭐ Golden Star Award (6 Semesters)
-Received for consistently maintaining a GPA above 3.5 with a cumulative GPA of 3.62.
-
-📊 CFA Level I Benchmark Performance
-Achieved 90.1% accuracy, matching or surpassing BloombergGPT benchmark results.
-
-🤖 Real-World AI Deployment – Weapon Detection System
-Significantly reduced false positives by 30 % while achieving high accuracy and recall in real-life deployment scenarios.
+- 🔭 Building **Arabic RAG pipelines and voice agents** at Takhail, and leading a small team
+- 🎓 Starting an **MSc in AI for Science** at AIMS South Africa in September 2026, on a **full Google DeepMind scholarship**
+- 📄 Published at **IEEE CSCloud 2025** — financial LLMs that beat GPT-4o on CFA exams
+- 🎯 Interested in retrieval quality, cost and latency, and assistive technology
+- 💬 Ask me about **RAG, Arabic NLP, LoRA fine-tuning, or running LLMs cheaply**
+- 🌱 Learning **maths foundations and research skills** before the MSc starts
 
 ---
 
-### 🔍 Research Interests
+### 🚀 Projects I'm proud of
 
-* **Machine Learning & Deep Learning:** Designing robust learning systems with a focus on real-world deployment, scalability, and performance optimization.
-
-* **Natural Language Processing (NLP):** Building domain-adapted language models for specialized tasks, including financial reasoning and multilingual understanding.
-
-* **Efficient LLM Adaptation:** Developing and implementing **parameter-efficient fine-tuning (PEFT)** techniques (LoRA, Q-LoRA, low-bit quantization) to make Large Language Models accessible and practical in **low-resource and edge environments**.
-
-* **Intelligent Security & Healthcare Systems:** Architecting **multi-modal AI systems** that integrate **vision, audio, and sensor data** to address critical challenges in **automated security** (e.g., weapon and aggression detection) and **healthcare monitoring**.
-
+| Project | What it is | Result |
+|---|---|---|
+| 🕌 **Dr. Sherine** | Arabic Islamic counselling voice agent. RAG over ~100 classical texts with hybrid BM25 + vector search. | Cut cost per message **~5×** |
+| 📊 **[FinVerse Agent](https://ieeexplore.ieee.org/document/11261453)** | 15 LoRA adapters on one quantized LLaMA-3.1-8B, with a Planner–Executor–Verifier routing loop. | **93.07%** on CFA Level I, above GPT-4o |
+| ♿ **[Rafeeq](https://ahmedamen1.github.io/Rafeeq-Demo/)** | Retrofit kit that turns any manual wheelchair into a smart one. Offline Arabic voice control on a Raspberry Pi. | **87%** accuracy offline, **$1,600** grant |
+| 🏙️ **TMG / The Spine** | Multilingual property assistant in Arabic, English, Spanish and French. | Shipped to production |
 
 ---
 
-### 💡 Open To
-- AI Research 
-- Applied ML / Computer Vision Roles
-- LLM Systems & Efficiency Research
+### 🛠️ What I work with
 
-### 📫 Connect with Me
-* **Email:** [s-ahmed.mohamed@zewailcity.edu.eg](mailto:s-ahmed.mohamed@zewailcity.edu.eg)
-* **LinkedIn:** [linkedin.com/in/ahmed-amin](https://linkedin.com/in/ahmed-amin)
-* **Education:** University of Science and Technology at Zewail City.
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**AI & machine learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6C4AB6?style=flat-square)
+![LoRA](https://img.shields.io/badge/LoRA_/_QLoRA-9C27B0?style=flat-square)
+
+**Backend & data**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+
+**Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 📌 Right now
+
+- 🧠 Making Arabic RAG answers **source-grounded** — the hard part is retrieval, not generation
+- 📐 Working through **maths foundations** before the MSc starts
+- 🇿🇦 Moving to Cape Town in **September 2026**
+
+---
+
+<p align="center">
+  <i>Arabic is my first language, and I want AI to work just as well in it.</i>
+</p>
