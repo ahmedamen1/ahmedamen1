@@ -30,7 +30,7 @@ afford, fast enough to use, and accurate enough to trust.
 Most of that work is in Arabic. AI tools are built for English first, so Arabic users
 get the weaker version. That gap is the problem I want to keep working on.
 
-- Building **production RAG pipelines and LLM voice agents** at Takhail, across four client-facing products
+- Building **production RAG pipelines and LLM voice agents** at Takhaial, across four client-facing products
 - Starting an **MSc in AI for Science** at AIMS South Africa in September 2026, on a **full Google DeepMind scholarship**
 - Published at **IEEE CSCloud 2025**: small fine-tuned models that beat GPT-4o on CFA exams
 - Ask me about **RAG, Arabic NLP, LoRA fine-tuning, or running LLMs cheaply**
@@ -41,10 +41,19 @@ get the weaker version. That gap is the problem I want to keep working on.
 
 | Project | What it is | Result |
 |---|---|---|
-| **[FinVerse Agent](https://ieeexplore.ieee.org/document/11261453)** | 15 LoRA adapters on one 4-bit quantized LLaMA-3.1-8B, with a Planner–Executor–Verifier routing loop. | **93.07%** on CFA Level I, above GPT-4o |
-| **Dr. Sherine** | Arabic Islamic counselling voice agent. RAG over ~100 classical texts with hybrid BM25 + vector search. | Cut cost per message **~5×** |
-| **[Rafeeq](https://ahmedamen1.github.io/Rafeeq-Demo/)** | Retrofit kit that turns any manual wheelchair into a smart one. Offline Arabic voice control on a Raspberry Pi. | **87%** accuracy offline, **$1,600** grant |
-| **TMG / The Spine** | Multilingual property assistant in Arabic, English, Spanish and French. | Shipped to production |
+| **FinVerse Agent** · [paper](https://ieeexplore.ieee.org/document/11261453) · [code](https://github.com/ahmedamen1/Fnverse_Agent_CFA_Adapter) | 15 LoRA adapters on one 4-bit quantized LLaMA-3.1-8B, with a Planner–Executor–Verifier routing loop. | **93.07%** on CFA Level I, above GPT-4o |
+| **Dr. Sherine** · [write-up](https://ahmedamen1.github.io/Portfolio-/project-arabic-chatbot.html) | Arabic advisory voice agent. RAG over ~100 classical texts with hybrid BM25 + vector search. | Cut cost per message **~5×** |
+| **Rafeeq** · [demo](https://ahmedamen1.github.io/Rafeeq-Demo/) · [write-up](https://ahmedamen1.github.io/Portfolio-/project-rafeeq.html) | Retrofit kit that turns any manual wheelchair into a smart one. Offline Arabic voice control on a Raspberry Pi. | **87%** accuracy offline, **$1,600** grant |
+| **Recommender from scratch** · [code](https://github.com/ahmedamen1/Recommendation-System-using-ALS-) · [write-up](https://ahmedamen1.github.io/Portfolio-/project-recommender.html) | ALS derived by hand, no recommender library, trained on all 32M MovieLens ratings. Written up in ICML format. | **0.78** test RMSE vs 1.06 baseline, **55×** faster with Numba |
+| **The Spine** · [write-up](https://ahmedamen1.github.io/Portfolio-/project-property-sales.html) | Multilingual property assistant in Arabic, English, Spanish and French. | Shipped to production |
+| **Multi-camera threat detection** · [code](https://github.com/ahmedamen1/School-Safety-Object-Detection) · [write-up](https://ahmedamen1.github.io/Portfolio-/project-security.html) | Real-time weapon, fall and violence detection across several feeds, with evidence capture. | **0.844** mAP@0.50, 698 ms CPU latency |
+
+### Learning in public
+
+Writing a small GPT from an empty file, component by component, then fine-tuning it to
+answer questions — attention verified against PyTorch's own kernel, then ablations for
+RoPE, RMSNorm, SwiGLU and GQA. One of eleven phases done, nothing to report yet.
+[The plan](https://ahmedamen1.github.io/Portfolio-/project-llm-from-scratch.html).
 
 ---
 
@@ -65,6 +74,8 @@ get the weaker version. That gap is the problem I want to keep working on.
 ![RAG](https://img.shields.io/badge/RAG-6C4AB6?style=flat-square)
 ![LoRA](https://img.shields.io/badge/LoRA_/_QLoRA-9C27B0?style=flat-square)
 ![Quantization](https://img.shields.io/badge/Quantization-7E57C2?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Numba](https://img.shields.io/badge/Numba-00A3E0?style=flat-square&logo=numba&logoColor=white)
 
 **Backend & data**
 
