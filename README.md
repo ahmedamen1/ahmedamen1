@@ -49,7 +49,7 @@ competition.
 | **The Spine** · [write-up](https://ahmedamen1.github.io/Portfolio-/project-property-sales.html) | Multilingual property assistant in Arabic, English, Spanish and French. | Shipped to production |
 | **Multi-camera threat detection** · [code](https://github.com/ahmedamen1/School-Safety-Object-Detection) · [write-up](https://ahmedamen1.github.io/Portfolio-/project-security.html) | Real-time weapon, fall and violence detection across several feeds, with evidence capture. | **0.844** mAP@0.50, 698 ms CPU latency |
 
-### Learning in public
+### In progress
 
 Writing a small GPT from an empty file, component by component, then fine-tuning it to
 answer questions — attention verified against PyTorch's own kernel, then ablations for
