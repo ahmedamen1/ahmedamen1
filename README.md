@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Ahmed Amin</h1>
 
 <p align="center">
-  <b>AI Engineer at Takhaial</b> · Giza, Egypt<br>
-  I build resource-efficient AI and NLP systems that work in the real world.
+  <b>AI Engineer at Takhaial</b> · <b>Google DeepMind Scholar</b>, AIMS South Africa<br>
+  I build LLM systems that are small, fast and grounded.
 </p>
 
 <p align="center">
@@ -22,17 +22,18 @@
 
 ### About me
 
-I work on **resource-efficient AI and NLP systems that actually work in the real
-world**: fine-tuning LLMs and building production RAG pipelines. Big models are easy
-to demo and expensive to run. I care about the version that ships: small enough to
-afford, fast enough to use, and accurate enough to trust.
+I'm a **Google DeepMind Scholar** at AIMS South Africa, pursuing an MSc in AI for
+Science in collaboration with the University of Cape Town.
 
-Most of that work is in Arabic. AI tools are built for English first, so Arabic users
-get the weaker version. That gap is the problem I want to keep working on.
+I'm also an AI Engineer at **Takhaial**, an Arabic AI company, where I build
+production-grade voice agents, RAG systems and Arabic NLP pipelines for real-world
+production systems.
 
-- Building **production RAG pipelines and LLM voice agents** at Takhaial, across four client-facing products
-- Starting an **MSc in AI for Science** at AIMS South Africa in September 2026, on a **full Google DeepMind scholarship**
-- Published at **IEEE CSCloud 2025**: small fine-tuned models that beat GPT-4o on CFA exams
+I graduated from Zewail City of Science and Technology with a degree in Communication
+and Information Engineering. My research focuses on LLMs that are **small, fast and
+grounded**. I co-authored an IEEE-published paper that won 1st place at the FinAI 2025
+competition.
+
 - Ask me about **RAG, Arabic NLP, LoRA fine-tuning, or running LLMs cheaply**
 
 ---
